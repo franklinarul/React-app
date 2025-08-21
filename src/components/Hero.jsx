@@ -1,4 +1,5 @@
 import './hero.css'
+import two from '../assets/images/hero-beer-bottles-3.png'
 function Hero (){
     return(
         <>
@@ -15,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
            </div>
             </div>
             <div>
-                <img className='img'  src="../src/images/hero-beer-bottles-3.png" alt="" />
+                <img className='img'  src={two} alt="" />
             </div>
          </div>
            

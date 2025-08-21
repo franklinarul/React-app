@@ -1,11 +1,12 @@
 import './Content.css'
+import one from '../assets/images/brand-history.png'
 function Content (){
     return(
         <>
         <div className="">
             <div className="grid grid-cols-2 div">
               <div>
-                <img class="img1 absolute z-10" src="./src/images/brand-history.png" alt="" />
+                <img class="img1 absolute z-10" src={one} alt="" />
                 <div class="imgback relative left-7 top-7">
 
                 </div>
