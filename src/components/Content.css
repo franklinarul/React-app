@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap');
+
+.div{
+    align-items: center;
+    padding: 100px;
+}
+
+.img1{
+    height: 375px;
+}
+.imgback{
+    height: 375px;
+    width: 563px;
+    background-color: #F3C242;
+}
