@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
            </div>
             </div>
             <div>
-                <img className='img'  src="./src/images/hero-beer-bottles-3.png" alt="" />
+                <img className='img'  src="../src/images/hero-beer-bottles-3.png" alt="" />
             </div>
          </div>
            
