@@ -14,3 +14,14 @@
     width: 563px;
     background-color: #F3C242;
 }
+
+h1{
+    font-family:"Bungee";
+    font-weight:400;
+    font-size: 53px;
+    line-height: 73px;
+}
+p{
+    font-size: 16px;
+    font-weight: 600;
+}
