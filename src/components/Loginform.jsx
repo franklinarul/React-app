@@ -18,7 +18,7 @@ function Loginfrom(){
    
     function check(){
         
-        const value = axios.get(`http://localhost:5000/login?useremail=${name}&userpass=${pass}`);
+        const value = axios.get(`https://backend1-2-a5kb.onrender.com/login?useremail=${name}&userpass=${pass}`);
         value.then(function(data){
           if(data.data == true){
             navigate("/home")
